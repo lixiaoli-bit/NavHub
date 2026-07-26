@@ -1,55 +1,6 @@
 {
   "categories": [
-    {
-      "categoryName": "📂 文件传输与格式转换",
-      "categoryId": "wenjianchuanshuyugeshizhuanhuan",
-      "sites": [
-       
-        {
-          "title": "轻闪PDF",
-          "url": "https://lightpdf.cn/",
-          "icon": "img/df9e47645642b42741151aff6f73cf8c.webp",
-          "desc": "傲软旗下的在线PDF转换和编辑工具集。",
-          "proxy": false
-        },
-        {
-          "title": "白描网页版",
-          "url": "https://web.baimiaoapp.com/",
-          "icon": "img/fd96ccdbf96afe8e9800f2057e0b5cfb.webp",
-          "desc": "一个完全免费的在线文字识别（OCR）网站。",
-          "proxy": false
-        },
-        {
-          "title": "Convertio",
-          "url": "https://convertio.co/zh/",
-          "icon": "img/bd902f9f696f1bf7368248ab9667b9f0.webp",
-          "desc": "万能在线文件转换器，支持300多种文件格式间的转换。",
-          "proxy": false
-        },
-        {
-          "title": "Smallpdf",
-          "url": "https://smallpdf.com/cn",
-          "icon": "img/ef904a31b347051353d7d3c9765a833e.webp",
-          "desc": "简洁易用的在线PDF处理工具，文件限制15M，每天限2次。",
-          "proxy": false
-        },
-        {
-          "title": "CloudConvert",
-          "url": "https://cloudconvert.com/",
-          "icon": "img/46829b17e56b274b29bfad3a768ecf23.webp",
-          "desc": "支持超过200种格式的在线文件转换器，包括文档、图片、视频等。",
-          "proxy": false
-        },
-        {
-          "title": "文本比较工具",
-          "url": "https://www.dute.org/diff",
-          "icon": "img/8bc9b72ce2291a15ad4c0f748b16cdee.webp",
-          "desc": "在线比对两个文本文档的差异，并高亮显示不同之处。",
-          "proxy": false
-        },
-        
-      ]
-    },
+    
     {
       "categoryName": "🎨 图像设计与素材",
       "categoryId": "tuxiangshejiyusucai",
